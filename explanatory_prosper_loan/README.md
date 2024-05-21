@@ -1,6 +1,4 @@
 # Exploration of Prosper Loan Dataset
-## by Ndidi Charles Nweke
-
 
 ## Dataset
 
